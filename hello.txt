@@ -8,4 +8,4 @@ Fourth Line
 
 Fifth Line, changed
 
-Sixth line, from a PR
+Sixth line, from a PR(and now an edit to that, to test squash and merge behavior)
